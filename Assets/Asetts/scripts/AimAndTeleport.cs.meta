@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e93981b4c17fc243a4e7490961fe3c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - crosshair: {instanceID: 0}
+  - reticle: {instanceID: 0}
+  - enemyReticle: {instanceID: 0}
+  - explosionPrefab: {fileID: 1481809058509777497, guid: 63ee07c6252a8564ca435a0b66b6db13, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

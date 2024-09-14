@@ -8,13 +8,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - piso
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - player
+  - player bullet
+  - enemy
+  - enemy bullet
   - 
   - 
   - 
